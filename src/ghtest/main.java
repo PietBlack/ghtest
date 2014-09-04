@@ -4,7 +4,7 @@ public class main {
 	
 	public main(){
 		String test;
-		test = "pieter";
+		test = "pieter2";
 	}
 
 }
